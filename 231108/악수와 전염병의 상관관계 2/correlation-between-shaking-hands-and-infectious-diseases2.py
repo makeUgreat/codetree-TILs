@@ -3,7 +3,7 @@ N,K,P,T = map(int,input().split())
 infection = [0] * (N+1)
 infection[P] = 1
 
-time = [[0,0] for _ in range(10)]
+time = [[0,0] for _ in range(251)]
 cnt_check = [0] * (N+1)
 for _ in range(T):
     t,x,y = map(int,input().split())
