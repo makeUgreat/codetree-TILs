@@ -25,8 +25,8 @@ def check(y,x):
     
 
 total = 0
-for i in range(4):
-    for j in range(4):
+for i in range(n):
+    for j in range(n):
         check(i,j)
 
 print(total)
