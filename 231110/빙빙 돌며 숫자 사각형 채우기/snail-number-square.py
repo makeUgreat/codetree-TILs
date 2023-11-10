@@ -7,7 +7,7 @@ dix = [1, 0, -1, 0]
 dir_num = 0
 
 def in_range(y,x):
-    return x >= 0 and x < n and y >= 0 and y < n
+    return 0 <= x < m and 0 <= y < n
 
 y,x= 0,0
 arr[0][0] = 1
