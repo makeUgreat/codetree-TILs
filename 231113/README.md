@@ -8,10 +8,12 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|90xp|1일째🔥|
+3|90xp|1일째🔥|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
+|[Novice Mid / 시뮬레이션 II / dx dy technique](https://www.codetree.ai/missions?missionId=5)|[[연습]되돌아오기](https://www.codetree.ai/missions/5/problems/come-back)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/makeUgreat/codetree-TILs/blob/main/231113/%EB%90%98%EB%8F%8C%EC%95%84%EC%98%A4%EA%B8%B0/come-back.py)|
+|[Novice Mid / 시뮬레이션 II / dx dy technique](https://www.codetree.ai/missions?missionId=5)|[[연습]되돌아오기 2](https://www.codetree.ai/missions/5/problems/come-back-2)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/makeUgreat/codetree-TILs/blob/main/231113/%EB%90%98%EB%8F%8C%EC%95%84%EC%98%A4%EA%B8%B0%202/come-back-2.py)|
 |[Novice Mid / 시뮬레이션 II / dx dy technique](https://www.codetree.ai/missions?missionId=5)|[[연습]격자 위의 편안한 상태](https://www.codetree.ai/missions/5/problems/comfortable-state-on-the-grid)|![보통][medium]|![Passed][passed]|[링크](https://github.com/makeUgreat/codetree-TILs/blob/main/231113/%EA%B2%A9%EC%9E%90%20%EC%9C%84%EC%9D%98%20%ED%8E%B8%EC%95%88%ED%95%9C%20%EC%83%81%ED%83%9C/comfortable-state-on-the-grid.py)|
 
 
