@@ -11,29 +11,25 @@ k = int(input())
 # 시작위치 구하기
 sy, sx, head = 0,0,0
 
-if k//n <=1:
+if k/n <=1:
     sy = 0
     sx = k-1
     head = 'fromN'
 
-elif k//n <=2:
+elif k/n <=2:
     sy = k - n - 1
     sx = n-1
     head = 'fromE'
 
-elif k//n <=3:
+elif k/n <=3:
     sy = n-1
     sx = k - 2*n -1
     head = 'fromS'
 
-elif k//n <=4:
+elif k/n <=4:
     sy = k - 3*n -1
     sx = 0
     head = 'fromW'
-
-
-diy = [0, -1, 0, 1]
-dix = [1, 0, -1, 0]
 
 q = deque()
 q.append([sy, sx, head])
