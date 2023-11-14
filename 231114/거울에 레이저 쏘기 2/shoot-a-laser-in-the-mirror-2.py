@@ -57,7 +57,7 @@ while q:
             head = 'fromN'
 
     elif arr[y][x] == '/':
-        if head == 'fromH':  # 북쪽에서 오면
+        if head == 'fromN':  # 북쪽에서 오면
             dy = y
             dx = x - 1
             head = 'fromE'
